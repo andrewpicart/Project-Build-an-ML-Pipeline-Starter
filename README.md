@@ -10,7 +10,10 @@ In this project you will build such a pipeline.
 ## Andrew Picart Submission Links
 [W&B Project](https://wandb.ai/andrew-picart-western-governors-university/nyc_airbnb?nw=nwuserandrewpicart)
 
+[W&B Project Report](https://wandb.ai/andrew-picart-western-governors-university/nyc_airbnb/reports/NYC-Airbnb-ML-Pipeline-Results--VmlldzoxNTg1NDQ4NA?accessToken=q020fvktztzz5ssiy37evha47pabojl8icceysy4zwliw0aton8m89k5zsh30rs6)
+
 [Github Repo v1.0.1](https://github.com/andrewpicart/Project-Build-an-ML-Pipeline-Starter)
+
 
 ## Table of contents
 
